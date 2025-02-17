@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>http://localhost:3588/it/</link>
+    <link>http://localhost:6414/it/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:3588/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:6414/it/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

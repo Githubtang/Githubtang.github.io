@@ -11,13 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "文章"
+  pageRef = "article"
+  weight = 10
+
+[[main]]
   name = "文档"
   pageRef = "docs"
   weight = 10
 
 [[main]]
   name = "简码"
-  pageRef = "docs/shortcodes"
+  pageRef = "docs/another-project"
   weight = 15
 
 [[main]]
