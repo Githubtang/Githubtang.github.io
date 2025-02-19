@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章列表 on Blowfish</title><link>https://localhost:1313/article/</link><description>Recent content in 文章列表 on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Blowfish</copyright><atom:link href="https://localhost:1313/article/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文章列表 on Blowfish</title><link>https://localhost:1313/article/</link><description>Recent content in 文章列表 on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Blowfish</copyright><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/article/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 MLstudio 运行大模型服务</title><link>https://localhost:1313/article/lmstudio-runmode/</link><pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/article/lmstudio-runmode/</guid><description>&lt;h2 class="relative group">介绍
+&lt;div id="%E4%BB%8B%E7%BB%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E4%BB%8B%E7%BB%8D" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>MLstudio 是一个强大的工具，用于运行和管理大语言模型。在本文中，我们将介绍如何在本地环境中使用 MLstudio 部署和运行一个预训练的模型：&lt;code>deepseek-r1-distill-llama-8b&lt;/code>😈&lt;/p></description></item></channel></rss>
