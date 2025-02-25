@@ -27,7 +27,19 @@ MLstudio 是一个强大的工具，用于运行和管理大语言模型。在�
 
     将模型文件放在lmstudio模型目录下
     {{< figure
-    src="下载Deepseek.png"
+    src="img/下载Deepseek.png"
+    alt="#"
+    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
+    >}}
+3. **选择下载好的模型**
+    {{< figure
+    src="img/选择模型.png"
+    alt="#"
+    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
+    >}}
+4. **运行后台服务**
+    {{< figure
+    src="img/启动模型.png"
     alt="#"
     caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
     >}}
