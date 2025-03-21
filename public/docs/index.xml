@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>第一个项目 on Blowfish</title>
-    <link>http://localhost:10884/docs/</link>
+    <link>http://localhost:2538/docs/</link>
     <description>Recent content in 第一个项目 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:10884/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:2538/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>项目</title>
-      <link>http://localhost:10884/docs/another-project/</link>
+      <link>http://localhost:2538/docs/another-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:10884/docs/another-project/</guid>
+      <guid>http://localhost:2538/docs/another-project/</guid>
       <description>&lt;p&gt;本节包含了我所有的当前项目。&lt;/p&gt;</description>
       
     </item>

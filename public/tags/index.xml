@@ -2,12 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>http://localhost:10884/tags/</link>
+    <link>http://localhost:2538/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:10884/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:2538/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AOP</title>
+      <link>http://localhost:2538/tags/aop/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/aop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JDK动态代理</title>
+      <link>http://localhost:2538/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mybatis</title>
+      <link>http://localhost:2538/tags/mybatis/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/mybatis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:2538/tags/git/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:2538/tags/github/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub Pages</title>
+      <link>http://localhost:2538/tags/github-pages/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/github-pages/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MLstudio</title>
+      <link>http://localhost:2538/tags/mlstudio/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/mlstudio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>大模型</title>
+      <link>http://localhost:2538/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>深度学习</title>
+      <link>http://localhost:2538/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:2538/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
