@@ -26,7 +26,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Mybatis 是通过jdk的动态代理和反射来实现mapper的方法构建的&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/realize-mybatis/feature.png" />
     </item>
     
   </channel>

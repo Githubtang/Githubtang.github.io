@@ -26,7 +26,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;某个深夜，我正尝试将更新后的博客内容推送到 GitHub Pages。这本应是常规操作，但终端里突然抛出的错误却打破了平静：&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/github-proxy/feature.png" />
     </item>
     
   </channel>

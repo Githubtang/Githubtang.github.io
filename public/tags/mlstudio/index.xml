@@ -26,7 +26,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;MLstudio 是一个强大的工具，用于运行和管理大语言模型。在本文中，我们将介绍如何在本地环境中使用 MLstudio 部署和运行一个预训练的模型：&lt;code&gt;deepseek-r1-distill-llama-8b&lt;/code&gt;😈&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/lmstudio-runmode/feature.png" />
     </item>
     
   </channel>
