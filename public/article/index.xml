@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文章列表 on Blowfish</title>
-    <link>http://localhost:1313/article/</link>
+    <link>https://localhost:1313/article/</link>
     <description>Recent content in 文章列表 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>JAVA基础知识</title>
-      <link>http://localhost:1313/article/java/</link>
+      <link>https://localhost:1313/article/java/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/java/</guid>
+      <guid>https://localhost:1313/article/java/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;什么是多态 
     &lt;div id=&#34;%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E6%80%81&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,15 +26,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;父类引用指向子类对象，调用方法时会调用子类的实现，而不是父类的实现，这叫多态&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/java/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/java/feature.png" />
     </item>
     
     <item>
       <title>Spring</title>
-      <link>http://localhost:1313/article/java-spring/</link>
+      <link>https://localhost:1313/article/java-spring/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/java-spring/</guid>
+      <guid>https://localhost:1313/article/java-spring/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Bean 的生命周期 
     &lt;div id=&#34;bean-%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -48,15 +48,15 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;实例化&lt;/strong&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/java-spring/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/java-spring/feature.png" />
     </item>
     
     <item>
       <title>实现Mybatis</title>
-      <link>http://localhost:1313/article/realize-mybatis/</link>
+      <link>https://localhost:1313/article/realize-mybatis/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/realize-mybatis/</guid>
+      <guid>https://localhost:1313/article/realize-mybatis/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
     &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -68,15 +68,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Mybatis 是通过jdk的动态代理和反射来实现mapper的方法构建的&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/realize-mybatis/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/realize-mybatis/feature.png" />
     </item>
     
     <item>
       <title>Git 不能提交到 Github</title>
-      <link>http://localhost:1313/article/github-proxy/</link>
+      <link>https://localhost:1313/article/github-proxy/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/github-proxy/</guid>
+      <guid>https://localhost:1313/article/github-proxy/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;故事的开始：一个普通的提交日 
     &lt;div id=&#34;%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E7%9A%84%E6%8F%90%E4%BA%A4%E6%97%A5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -88,15 +88,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;某个深夜，我正尝试将更新后的博客内容推送到 GitHub Pages。这本应是常规操作，但终端里突然抛出的错误却打破了平静：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/github-proxy/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/github-proxy/feature.png" />
     </item>
     
     <item>
       <title>使用 MLstudio 运行大模型服务</title>
-      <link>http://localhost:1313/article/lmstudio-runmode/</link>
+      <link>https://localhost:1313/article/lmstudio-runmode/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/lmstudio-runmode/</guid>
+      <guid>https://localhost:1313/article/lmstudio-runmode/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
     &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -108,7 +108,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;MLstudio 是一个强大的工具，用于运行和管理大语言模型。在本文中，我们将介绍如何在本地环境中使用 MLstudio 部署和运行一个预训练的模型：&lt;code&gt;deepseek-r1-distill-llama-8b&lt;/code&gt;😈&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/lmstudio-runmode/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/lmstudio-runmode/feature.png" />
     </item>
     
   </channel>

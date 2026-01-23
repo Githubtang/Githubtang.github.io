@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大模型 on Blowfish</title>
-    <link>http://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+    <link>https://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
     <description>Recent content in 大模型 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>使用 MLstudio 运行大模型服务</title>
-      <link>http://localhost:1313/article/lmstudio-runmode/</link>
+      <link>https://localhost:1313/article/lmstudio-runmode/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/lmstudio-runmode/</guid>
+      <guid>https://localhost:1313/article/lmstudio-runmode/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
     &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,7 +26,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;MLstudio 是一个强大的工具，用于运行和管理大语言模型。在本文中，我们将介绍如何在本地环境中使用 MLstudio 部署和运行一个预训练的模型：&lt;code&gt;deepseek-r1-distill-llama-8b&lt;/code&gt;😈&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/lmstudio-runmode/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/lmstudio-runmode/feature.png" />
     </item>
     
   </channel>

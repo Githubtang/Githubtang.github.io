@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AOP on Blowfish</title>
-    <link>http://localhost:1313/tags/aop/</link>
+    <link>https://localhost:1313/tags/aop/</link>
     <description>Recent content in AOP on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/aop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spring</title>
-      <link>http://localhost:1313/article/java-spring/</link>
+      <link>https://localhost:1313/article/java-spring/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/java-spring/</guid>
+      <guid>https://localhost:1313/article/java-spring/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Bean 的生命周期 
     &lt;div id=&#34;bean-%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,15 +28,15 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;实例化&lt;/strong&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/java-spring/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/java-spring/feature.png" />
     </item>
     
     <item>
       <title>实现Mybatis</title>
-      <link>http://localhost:1313/article/realize-mybatis/</link>
+      <link>https://localhost:1313/article/realize-mybatis/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/realize-mybatis/</guid>
+      <guid>https://localhost:1313/article/realize-mybatis/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
     &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -48,7 +48,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Mybatis 是通过jdk的动态代理和反射来实现mapper的方法构建的&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/realize-mybatis/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/realize-mybatis/feature.png" />
     </item>
     
   </channel>
