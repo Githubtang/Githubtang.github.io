@@ -26,7 +26,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;父类引用指向子类对象，调用方法时会调用子类的实现，而不是父类的实现，这叫多态&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/java/feature.png" />
     </item>
     
     <item>
@@ -48,7 +48,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;实例化&lt;/strong&gt;&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/java-spring/feature.png" />
     </item>
     
     <item>
@@ -68,7 +68,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Mybatis 是通过jdk的动态代理和反射来实现mapper的方法构建的&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/realize-mybatis/feature.png" />
     </item>
     
     <item>
@@ -88,7 +88,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;某个深夜，我正尝试将更新后的博客内容推送到 GitHub Pages。这本应是常规操作，但终端里突然抛出的错误却打破了平静：&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/github-proxy/feature.png" />
     </item>
     
     <item>
@@ -108,7 +108,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;MLstudio 是一个强大的工具，用于运行和管理大语言模型。在本文中，我们将介绍如何在本地环境中使用 MLstudio 部署和运行一个预训练的模型：&lt;code&gt;deepseek-r1-distill-llama-8b&lt;/code&gt;😈&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/article/lmstudio-runmode/feature.png" />
     </item>
     
   </channel>
