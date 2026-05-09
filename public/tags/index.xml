@@ -2,139 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>https://localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gradle</title>
+      <link>http://localhost:1313/tags/gradle/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gradle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IDEA</title>
+      <link>http://localhost:1313/tags/idea/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/idea/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ZJCM</title>
+      <link>http://localhost:1313/tags/zjcm/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/zjcm/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AOP</title>
-      <link>https://localhost:1313/tags/aop/</link>
+      <link>http://localhost:1313/tags/aop/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/aop/</guid>
+      <guid>http://localhost:1313/tags/aop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bean</title>
-      <link>https://localhost:1313/tags/bean/</link>
+      <link>http://localhost:1313/tags/bean/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/bean/</guid>
+      <guid>http://localhost:1313/tags/bean/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ioc</title>
-      <link>https://localhost:1313/tags/ioc/</link>
+      <link>http://localhost:1313/tags/ioc/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/ioc/</guid>
+      <guid>http://localhost:1313/tags/ioc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>多态</title>
-      <link>https://localhost:1313/tags/%E5%A4%9A%E6%80%81/</link>
+      <link>http://localhost:1313/tags/%E5%A4%9A%E6%80%81/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E5%A4%9A%E6%80%81/</guid>
+      <guid>http://localhost:1313/tags/%E5%A4%9A%E6%80%81/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>事务</title>
-      <link>https://localhost:1313/tags/%E4%BA%8B%E5%8A%A1/</link>
+      <link>http://localhost:1313/tags/%E4%BA%8B%E5%8A%A1/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E4%BA%8B%E5%8A%A1/</guid>
+      <guid>http://localhost:1313/tags/%E4%BA%8B%E5%8A%A1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JDK动态代理</title>
-      <link>https://localhost:1313/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</link>
+      <link>http://localhost:1313/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</guid>
+      <guid>http://localhost:1313/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mybatis</title>
-      <link>https://localhost:1313/tags/mybatis/</link>
+      <link>http://localhost:1313/tags/mybatis/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/mybatis/</guid>
+      <guid>http://localhost:1313/tags/mybatis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://localhost:1313/tags/git/</link>
+      <link>http://localhost:1313/tags/git/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/git/</guid>
+      <guid>http://localhost:1313/tags/git/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://localhost:1313/tags/github/</link>
+      <link>http://localhost:1313/tags/github/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/github/</guid>
+      <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub Pages</title>
-      <link>https://localhost:1313/tags/github-pages/</link>
+      <link>http://localhost:1313/tags/github-pages/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/github-pages/</guid>
+      <guid>http://localhost:1313/tags/github-pages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MLstudio</title>
-      <link>https://localhost:1313/tags/mlstudio/</link>
+      <link>http://localhost:1313/tags/mlstudio/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/mlstudio/</guid>
+      <guid>http://localhost:1313/tags/mlstudio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>大模型</title>
-      <link>https://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+      <link>http://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
+      <guid>http://localhost:1313/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>深度学习</title>
-      <link>https://localhost:1313/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://localhost:1313/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://localhost:1313/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
       
     </item>
