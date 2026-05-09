@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Blowfish! :tada: on Blowfish</title><link>https://localhost:1313/</link><description>Recent content in 欢迎来到 Blowfish! :tada: on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Blowfish</copyright><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>JAVA基础知识</title><link>https://localhost:1313/article/java/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://localhost:1313/article/java/</guid><description>&lt;h2 class="relative group">什么是多态
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Blowfish! :tada: on Blowfish</title><link>https://localhost:1313/</link><description>Recent content in 欢迎来到 Blowfish! :tada: on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Blowfish</copyright><lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>成功启动 ZJCM 项目</title><link>https://localhost:1313/article/zjcm-start/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><guid>https://localhost:1313/article/zjcm-start/</guid><description>&lt;h2 class="relative group">介绍
+&lt;div id="%E4%BB%8B%E7%BB%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E4%BB%8B%E7%BB%8D" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>这篇文章记录一下成功启动 &lt;code>ZJCM&lt;/code> 项目的过程。这个项目启动时比较容易遇到依赖包、IDEA 打包、编译内存和 Java 版本不匹配的问题，所以这里把完整流程整理下来，方便之后重新部署或者排查问题。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/article/zjcm-start/feature.png"/></item><item><title>JAVA基础知识</title><link>https://localhost:1313/article/java/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://localhost:1313/article/java/</guid><description>&lt;h2 class="relative group">什么是多态
 &lt;div id="%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%9A%E6%80%81" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
